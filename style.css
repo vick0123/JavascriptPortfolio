@@ -1,0 +1,63 @@
+@charset "UTF-8";
+* {
+    font-family:'Tahoma', 'Verdana', Segoe, sans-serif;;
+}
+
+html {
+    color: white;
+    background-color: #62A442;
+}
+
+img {
+    margin: 0rem 1.5rem; 
+    border: solid 2.5px #789E58;
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    width: 690px;
+}
+
+table, th, td {
+    font-weight: normal;
+    background-color: #BDDEAA;
+    color: black;
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px
+}
+
+caption {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color:rgb(214, 255, 208) 
+}
+
+th:first-of-type {
+    font-weight: bold; 
+    text-align: center;
+}
+
+
+.image {
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.bulletedList {
+    padding-left: 10px;
+}
+
